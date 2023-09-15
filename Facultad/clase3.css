@@ -1,0 +1,76 @@
+body{
+    background-color: black;
+    
+    
+   
+}
+.fausto{
+    background-color: chartreuse;
+    
+}
+.lol{
+    color: blueviolet;
+}
+.facundo{
+    font-size: 20px;
+}
+.julian{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.martin{
+    color: blue;
+}
+.messi{
+   margin-left: 20px;
+   margin-right: 20px;
+   width: 80px;
+   height: 80px;
+}
+.cr7{
+    margin-left: 20px;
+   margin-right: 20px;
+   width: 80px;
+   height: 80px;
+}
+.ronaldo{
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 80px;
+    height: 80px;
+}
+.titulo{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 450px;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(17, 5, 1);
+}
+footer{
+    background-color: #faa200;
+    color: #fff;
+    padding: 10px 0 30px 0;
+    text-align: center;
+    position: relative;
+    width: 100%;
+}
+footer .arriba{
+    display: block;
+    width: 50px;
+    height: 50px;
+    background-color: orangered;
+    color: black;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -25px;
+    border-radius: 50%;
+    line-height: 50px;
+    font-size: 18px;
+}
+.futer{
+    margin: 25px;
+    color: black;
+}
+
